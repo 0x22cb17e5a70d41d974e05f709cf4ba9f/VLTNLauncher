@@ -1,0 +1,5 @@
+[PatchAlt]
+Count=3
+PatchAlt_0=http://vltn.mobi/data/paklist.ini
+PatchAlt_1=http://103.237.145.84/paklist.ini
+PatchAlt_2=https://raw.githubusercontent.com/0xddec4906b1fe25f76a18db3e0ed9b6b1/LauncherDesign_jx2vtd.com/main/PatchInfo.json
